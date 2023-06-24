@@ -356,12 +356,14 @@
     width: 203px;
     margin: auto;
     margin-bottom: 15px;
+    display: block;
   }
   .btn-more-details:hover {
     background-color: white;
     color: #2c71b8;
   }
   .btn-add-to-cart {
+    display: block;
     border: none;
     background-color: #568dc6;
     position: relative;
