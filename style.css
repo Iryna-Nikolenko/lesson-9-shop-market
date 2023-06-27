@@ -320,7 +320,8 @@
     border-bottom: 1px solid white;
     display: flex;
     align-items: center;
-    z-index: 2;
+    z-index: 1;
+
   }
   .slider-number {
     color: white;
